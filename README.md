@@ -13,6 +13,14 @@
 ![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![Dropbox](https://img.shields.io/badge/-Dropbox-0061FF?logo=dropbox&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logoColor=white)
+
 
 
 ## ⚡ Последние проекты
