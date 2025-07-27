@@ -1,7 +1,7 @@
 ![](./poster.png)
 ## Hi there 👋
 
-Я занимаюсь автоматизацией, UI-тестами с Cypress....
+....
 
 ## 🧰 Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
