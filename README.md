@@ -20,7 +20,7 @@
 - 🎧 [radio-react](https://github.com/wolk8506/radio-react-backend) — онлайн-радио-backend
 - 🧪 [UI-тесты](https://github.com/...) — динамическая проверка пользовательских статусов
 - 🌄 [Поиск изображений](https://wolk8506.github.io/goit-react-hw-04-images/) — Поиск изображений
-- 💇‍♂️[Ландинг](https://wolk8506.github.io/barbershop/) / [repo](https://github.com/wolk8506/barbershop)
+- 💇‍♂️ BarberShop [landing](https://wolk8506.github.io/barbershop/) / [repo](https://github.com/wolk8506/barbershop)
 - 
 
 
