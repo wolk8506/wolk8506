@@ -4,8 +4,7 @@
 ....
 
 ## 🧰 Tech Stack
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
+
 ![macOS](https://img.shields.io/badge/-macOS-black?logo=apple)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white)
@@ -13,6 +12,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
 ![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
 
 
 ## ⚡ Последние проекты
