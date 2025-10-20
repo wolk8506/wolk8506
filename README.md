@@ -51,3 +51,28 @@
 ## 📫 Контакты
 [![Gmail](https://img.shields.io/badge/-your.email@example.com-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
+## -------
+![Dropbox](https://img.shields.io/badge/-Dropbox-0061FF?logo=dropbox&logoColor=white&style=plastic)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=plastic)
+
+
+![Dropbox](https://img.shields.io/badge/Dropbox-0061FF?logo=dropbox&logoColor=white&style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)
+
+
+![Dropbox](https://img.shields.io/badge/-Dropbox-0061FF?logo=dropbox&logoColor=white&style=flat-square)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat-square)
+
+
+![Dropbox](https://img.shields.io/badge/-Dropbox-0061FF?logo=dropbox&logoColor=white&style=flat)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat)
+
+
