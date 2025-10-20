@@ -33,11 +33,7 @@
 |---|---|---|---|
 |---|---|---|---|
 |🎧 онлайн-радио|[radio-react](https://github.com/wolk8506/radio-react)|---|---|
-|🎧 онлайн-радио-backend|[radio-react](https://github.com/wolk8506/radio-react-backend)|---|![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![Dropbox](https://img.shields.io/badge/-Dropbox-0061FF?logo=dropbox&logoColor=white)![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black)
-![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logoColor=white)|
+|🎧 онлайн-радио-backend|[radio-react](https://github.com/wolk8506/radio-react-backend)|---|![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)![Dropbox](https://img.shields.io/badge/-Dropbox-0061FF?logo=dropbox&logoColor=white)![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black)![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logoColor=white)|
 |---|---|---|---|
 |🧪 динамическая проверка пользовательских статусов|[UI-тесты](https://github.com/...) |---|---|
 |---|---|---|---|
