@@ -35,7 +35,7 @@
 - 👨‍💻 WebStudio [landing](https://wolk8506.github.io/webstudio/) / [repo](https://github.com/wolk8506/webstudio) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 |---|---|🧰 Tech Stack|
-|___|___|___|
+|---|---|---|
 |---|---|[HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)|
 
 - 
