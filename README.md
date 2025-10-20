@@ -27,15 +27,24 @@
 
 
 ## ⚡ Последние проекты
-- 🎧 [radio-react](https://github.com/wolk8506/radio-react) — онлайн-радио
-- 🎧 [radio-react](https://github.com/wolk8506/radio-react-backend) — онлайн-радио-backend
-- 🧪 [UI-тесты](https://github.com/...) — динамическая проверка пользовательских статусов
-- 🌄 [Поиск изображений](https://wolk8506.github.io/goit-react-hw-04-images/) — Поиск изображений
-- 💇‍♂️ BarberShop [landing](https://wolk8506.github.io/barbershop/) / [repo](https://github.com/wolk8506/barbershop)
-- 👨‍💻 WebStudio [landing](https://wolk8506.github.io/webstudio/) / [repo](https://github.com/wolk8506/webstudio) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 |Name|---|repo|🧰 Tech Stack|
 |---|---|---|---|
+|---|---|---|---|
+|---|---|---|---|
+|🎧 онлайн-радио|[radio-react](https://github.com/wolk8506/radio-react)|---|---|
+|🎧 онлайн-радио-backend|[radio-react](https://github.com/wolk8506/radio-react-backend)|---|![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![Dropbox](https://img.shields.io/badge/-Dropbox-0061FF?logo=dropbox&logoColor=white)![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logoColor=white)|
+|---|---|---|---|
+|🧪 динамическая проверка пользовательских статусов|[UI-тесты](https://github.com/...) |---|---|
+|---|---|---|---|
+|---|---|---|---|
+|---|---|---|---|
+|🌄 Поиск изображений|[Поиск изображений](https://wolk8506.github.io/goit-react-hw-04-images/) |---|---|
+|💇‍♂️ BarberShop |[landing](https://wolk8506.github.io/barbershop/)|[repo](https://github.com/wolk8506/barbershop)|---|
 |👨‍💻 WebStudio|[landing](https://wolk8506.github.io/webstudio/)|[repo](https://github.com/wolk8506/webstudio)|![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)|
 
 - 
